@@ -3,7 +3,7 @@ const dayjs = require('dayjs');
 // ==========================================
 // 1. Configuración y Datos
 // ==========================================
-const CONFIG = {
+const CONFIG = { 
     iva: 0.21,
     descuentoUmbral: 100,
     descuentoPorcentaje: 0.05,
